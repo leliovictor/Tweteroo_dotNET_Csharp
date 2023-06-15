@@ -4,3 +4,4 @@
 - Fazer validação com DTO
 - Uma rota para apagar tweets do usuário
 - Paginação ou scroll infinito
+- Acertar o ReadMe com a descrição/instalação do projeto.
